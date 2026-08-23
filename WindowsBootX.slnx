@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WindowsBootX.Core/WindowsBootX.Core.csproj" />
+    <Project Path="src/WindowsBootX/WindowsBootX.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WindowsBootX.Core.Tests/WindowsBootX.Core.Tests.csproj" />
+  </Folder>
+</Solution>
